@@ -30,7 +30,6 @@ public class Challenge5 {
 		// display the altered list
 		displayPersonInfo(personList);
 		
-	
 		//Calculate the average age
 		int avgAge= calculateAverageAge(personList);
 			System.out.println("The average age " +avgAge);
