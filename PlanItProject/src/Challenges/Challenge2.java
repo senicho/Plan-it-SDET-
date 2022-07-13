@@ -9,6 +9,7 @@ public class Challenge2 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		
 		Scanner scan= new Scanner (System.in);// create scanner object 
 		
 		System.out.println("Enter the string ");

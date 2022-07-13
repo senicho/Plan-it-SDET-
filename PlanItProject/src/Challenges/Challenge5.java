@@ -71,7 +71,6 @@ public class Challenge5 {
 			
 	}
 	
-
 	//Alter the original list and remove duplicates
 	public static List<Person> RemoveDuplicate(List<Person> personList)
 	{
