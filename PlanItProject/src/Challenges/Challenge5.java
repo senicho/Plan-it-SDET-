@@ -77,7 +77,6 @@ public class Challenge5 {
 		 List<Person> newPersonList;
 		 Map<String, Person> personMap = new LinkedHashMap<String, Person>();
 		 
-		// 
 		 for( Person p:personList)
 		 {
 			// add only distinct names
